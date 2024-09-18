@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Deplyoment-test/static/css/main.df7296ec.css",
-    "main.js": "/Deplyoment-test/static/js/main.c65205cc.js",
+    "main.js": "/Deplyoment-test/static/js/main.9231fb82.js",
     "static/js/453.0ae23b17.chunk.js": "/Deplyoment-test/static/js/453.0ae23b17.chunk.js",
     "static/media/file_3.jpg": "/Deplyoment-test/static/media/file_3.2fd9df275cb34f43e332.jpg",
     "static/media/IsroAIMLCertificate.JPG": "/Deplyoment-test/static/media/IsroAIMLCertificate.28610e84a23ef4d396fd.JPG",
@@ -19,11 +19,11 @@
     "static/media/Data Analyst.pdf": "/Deplyoment-test/static/media/Data Analyst.9eb47cb5461a3669a32d.pdf",
     "index.html": "/Deplyoment-test/index.html",
     "main.df7296ec.css.map": "/Deplyoment-test/static/css/main.df7296ec.css.map",
-    "main.c65205cc.js.map": "/Deplyoment-test/static/js/main.c65205cc.js.map",
+    "main.9231fb82.js.map": "/Deplyoment-test/static/js/main.9231fb82.js.map",
     "453.0ae23b17.chunk.js.map": "/Deplyoment-test/static/js/453.0ae23b17.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.df7296ec.css",
-    "static/js/main.c65205cc.js"
+    "static/js/main.9231fb82.js"
   ]
 }
