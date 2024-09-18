@@ -1,16 +1,29 @@
 {
   "files": {
-    "main.css": "/Deplyoment-test/static/css/main.f855e6bc.css",
-    "main.js": "/Deplyoment-test/static/js/main.a5a7699a.js",
+    "main.css": "/Deplyoment-test/static/css/main.df7296ec.css",
+    "main.js": "/Deplyoment-test/static/js/main.c65205cc.js",
     "static/js/453.0ae23b17.chunk.js": "/Deplyoment-test/static/js/453.0ae23b17.chunk.js",
-    "static/media/logo.svg": "/Deplyoment-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/file_3.jpg": "/Deplyoment-test/static/media/file_3.2fd9df275cb34f43e332.jpg",
+    "static/media/IsroAIMLCertificate.JPG": "/Deplyoment-test/static/media/IsroAIMLCertificate.28610e84a23ef4d396fd.JPG",
+    "static/media/Data Visualization.jpeg": "/Deplyoment-test/static/media/Data Visualization.3d80f147aacb5469fe22.jpeg",
+    "static/media/Top10AI.jpeg": "/Deplyoment-test/static/media/Top10AI.73e51ae7c275cec93ee8.jpeg",
+    "static/media/mutiplebackground.jpg": "/Deplyoment-test/static/media/mutiplebackground.14cc203a4fbfcfa683b3.jpg",
+    "static/media/CreditCardReport.JPG": "/Deplyoment-test/static/media/CreditCardReport.acad7e7075178932ea59.JPG",
+    "static/media/profile2.jpg": "/Deplyoment-test/static/media/profile2.68c690c5ef076b94d711.jpg",
+    "static/media/StateMarketReport.JPG": "/Deplyoment-test/static/media/StateMarketReport.d993928d49c069090739.JPG",
+    "static/media/SalesDashboardReport.JPG": "/Deplyoment-test/static/media/SalesDashboardReport.ea2dabce17d28a7382a9.JPG",
+    "static/media/DashboardBlog.JPG": "/Deplyoment-test/static/media/DashboardBlog.ee577ea97b78308ee405.JPG",
+    "static/media/wscubeCertificate.JPG": "/Deplyoment-test/static/media/wscubeCertificate.234187abfaf27140da53.JPG",
+    "static/media/PersonalPortfolio.JPG": "/Deplyoment-test/static/media/PersonalPortfolio.854982fa2d3ec8e2de7c.JPG",
+    "static/media/RDataScienceCertificate.JPG": "/Deplyoment-test/static/media/RDataScienceCertificate.6bf4b8f6f0cd3a279ebc.JPG",
+    "static/media/Data Analyst.pdf": "/Deplyoment-test/static/media/Data Analyst.9eb47cb5461a3669a32d.pdf",
     "index.html": "/Deplyoment-test/index.html",
-    "main.f855e6bc.css.map": "/Deplyoment-test/static/css/main.f855e6bc.css.map",
-    "main.a5a7699a.js.map": "/Deplyoment-test/static/js/main.a5a7699a.js.map",
+    "main.df7296ec.css.map": "/Deplyoment-test/static/css/main.df7296ec.css.map",
+    "main.c65205cc.js.map": "/Deplyoment-test/static/js/main.c65205cc.js.map",
     "453.0ae23b17.chunk.js.map": "/Deplyoment-test/static/js/453.0ae23b17.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.a5a7699a.js"
+    "static/css/main.df7296ec.css",
+    "static/js/main.c65205cc.js"
   ]
 }
