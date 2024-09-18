@@ -2,7 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Header from './components/header';
 import Home from './components/Home'; // Assuming Home contains the sections with IDs
-import PageNotFound from './components/PageNotFound';
+
 
 function App() {
   return (
@@ -12,7 +12,7 @@ function App() {
         <main>
           <Routes>
             <Route path="/" element={<Home />} />
-            <Route path="*" element={<PageNotFound />} />
+           
             {/* Add other routes here if needed */}
           </Routes>
         </main>
